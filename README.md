@@ -10,7 +10,7 @@
 - 组合各种前面生成的特征，生成新的训练数据，并对数据进行保存  
   
 ### 数据集   
-数据来源于Kaggle竞赛：Event Recommendation Engine Challenge，根据events they’ve responded to in the past user demographic information what events they’ve seen and clicked on in our app 用户对某个事件是否感兴趣      
+数据来源于Kaggle竞赛：Event Recommendation Engine Challenge，根据Events they’ve responded to in the past user demographic information what events they’ve seen and clicked on in our app 用户对某个事件是否感兴趣      
 
 样本特征包括： 
 - user_id：用户ID       
