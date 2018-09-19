@@ -1,4 +1,4 @@
-﻿## Recommendation_System 
+﻿## Recommendation System 
 
 ### 简介   
 在kaggle竞赛Event Recommendation Engine Challenge数据集上，分别实现基于用户、基于物品（活动）、基于模型（矩阵分解/LFM）的协同过滤  
